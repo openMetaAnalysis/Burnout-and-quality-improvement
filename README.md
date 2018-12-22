@@ -1,8 +1,8 @@
-Template: clinical question
+Burnout: effect of particpation in quality-improvement projects
 ============================================
 A living systematic review
 
-Short url: http://
+Short url: https://openMetaAnalysis.github.io/Burnout-and-quality-improvement
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I2 was '[moderate](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates the previously published meta-analysis.(1)
 
@@ -34,21 +34,26 @@ References:
 ----------------------------------
 
 ### Systematic review(s)
-#### Most recent review at time of last revision of this repository
-1. Ammendolia C, Stuber KJ, Rok E, Rampersaud R, Kennedy CA, Pennick V, Steenstra IA, de Bruin LK, Furlan AD. Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication. Cochrane Database Syst Rev. 2013 Aug 30;8:CD010712. doi: [10.1002/14651858.CD010712](http://dx.doi.org/10.1002/14651858.CD010712). PMID: [23996271](http://pubmed.gov/23996271).
+#### Most recent review at time of last revision of this repository 
+1. Kalani SD, Azadfallah P, Oreyzi H, Adibi P. Interventions for Physician Burnout: A Systematic Review of Systematic Reviews. Int J Prev Med. 2018 Sep 17;9:81. doi: [10.4103/ijpvm.IJPVM_255_18](http://dx.doi.org/10.4103/ijpvm.IJPVM_255_18). PMID: [30283613](http://pubmed.gov/30283613); PMCID: [PMC6151971](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6151971/).
+  2. Brand SL, Thompson Coon J, Fleming LE, Carroll L, Bethel A, Wyatt K. Whole-system approaches to improving the health and wellbeing of healthcare workers: A systematic review. PLoS One. 2017 Dec 4;12(12):e0188418. doi: [10.1371/journal.pone.0188418](http://dx.doi.org/10.1371/journal.pone.0188418). eCollection 2017. PMID: [29200422](http://pubmed.gov/29200422); PMCID: [PMC5714334](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5714334/).
+3. Panagioti M, Panagopoulou E, Bower P, Lewith G, Kontopantelis E, Chew-Graham C, Dawson S, van Marwijk H, Geraghty K, Esmail A. Controlled Interventions to Reduce Burnout in Physicians: A Systematic Review and Meta-analysis. JAMA Intern  Med. 2017 Feb 1;177(2):195-205. doi: [10.1001/jamainternmed.2016.7674](http://dx.doi.org/10.1001/jamainternmed.2016.7674). PMID: [27918798](http://pubmed.gov/27918798).
+4. West CP, Dyrbye LN, Erwin PJ, Shanafelt TD. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. Lancet. 2016 Nov 5;388(10057):2272-2281. doi: [10.1016/S0140-6736(16)31279-X](http://dx.doi.org/10.1016/S0140-6736(16)31279-X). PMID: [27692469](http://pubmed.gov/27692469).
 
 ### Randomized controlled trials
-#### New trial(s) *not* included in the most recent review above
-1. Friedly JL, Comstock BA, Turner JA, Heagerty PJ, Deyo RA, Sullivan SD, Bauer Z, Bresnahan BW, Avins AL, Nedeljkovic SS, Nerenz DR, Standaert C, Kessler L, Akuthota V, Annaswamy T, Chen A, Diehn F, Firtch W, Gerges FJ, Gilligan C,
-Goldberg H, Kennedy DJ, Mandel S, Tyburski M, Sanders W, Sibell D, Smuck M, Wasan A, Won L, Jarvik JG. A randomized trial of epidural glucocorticoid injections for spinal stenosis. N Engl J Med. 2014 Jul 3;371(1):11-21. doi: [10.1056/NEJMoa1313265](http://dx.doi.org/10.1056/NEJMoa1313265). PMID: [24988555](http://pubmed.gov/24988555).
+#### New studie(s) *not* included in the most recent review above
+Pending
 
-#### Trial(s) included in the review above
-1. Fukusaki M, Kobayashi I, Hara T, Sumikawa K. Symptoms of spinal stenosis do not improve after epidural steroid injection. Clin J Pain. 1998 Jun;14(2):148-51. PMID:[9647457](http://pubmed.gov/9647457).
+#### Studie(s) included in the review(s) above
+1. Locatelli SM, LaVela SL. Professional Quality of Life of Veterans Affairs Staff and Providers in a Patient-Centered Care Environment. Health Care Manag (Frederick). 2015 Jul-Sep;34(3):246-54. doi: [10.1097/HCM.0000000000000070](http://dx.doi.org/10.1097/HCM.0000000000000070). PMID: [26218000](http://pubmed.gov/26218000).
+2. Linzer M, Poplau S, Grossman E, Varkey A, Yale S, Williams E, Hicks L, Brown RL, Wallock J, Kohnhorst D, Barbouche M. A Cluster Randomized Trial of Interventions to Improve Work Conditions and Clinician Burnout in Primary Care: Results from the Healthy Work Place (HWP) Study. J Gen Intern Med. 2015 Aug;30(8):1105-11. doi: [10.1007/s11606-015-3235-4](http://dx.doi.org/10.1007/s11606-015-3235-4). PMID: [25724571](http://pubmed.gov/25724571); PMCID: PMC4510236.
+3. Reid RJ, Coleman K, Johnson EA, Fishman PA, Hsu C, Soman MP, Trescott CE, Erikson M, Larson EB. The Group Health medical home at year two: cost savings, higher patient satisfaction, and less burnout for providers. Health Aff (Millwood). 2010 May;29(5):835-43. doi: [10.1377/hlthaff.2010.0158](http://dx.doi.org/10.1377/hlthaff.2010.0158). PMID: [20439869](http://pubmed.gov/20439869).
+4. Dunn PM, Arnetz BB, Christensen JF, Homer L. Meeting the imperative to improve physician well-being: assessment of an innovative program. J Gen Intern Med. 2007 Nov;22(11):1544-52. PMID: [17891503](http://pubmed.gov/17891503); PMCID: [PMC2219814](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2219814).
 
-#### Trial(s) undergoing review
+#### Studie(s) undergoing review
 None
 
-#### Trial(s) excluded - selected list of important trial(s)
+#### Studie(s) excluded - selected list of important trial(s)
 
 #### Cited by
 This repository is cited by:
