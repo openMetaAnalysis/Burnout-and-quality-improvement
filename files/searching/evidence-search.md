@@ -1,7 +1,7 @@
 # Evidence search
 (under construction)
 ## Inclusion criteria
-Randomized trials of [disease] that compare [intervention] to placebo.
+Controlled studies, including before-after design, of burnout that measure the impact on burnout of participating in quality improvement projects.
 
 ## Reconciliation tables
 (under construction)
@@ -10,15 +10,16 @@ Randomized trials of [disease] that compare [intervention] to placebo.
 ## PubMed
 ### Boolean term searching
 
-[supraventricular tachycardia AND Valsalva AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=supraventricular%20tachycardia%20AND%20Valsalva%20AND%20random*)
-* Retrieves 5 articles in hand (100% sensitivity) (search 6/19/2017)
+[burnout AND quality\*](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=burnout%20AND%20quality)
+* Retrieves 4 articles in hand (100% sensitivity) (search 12/22/2018)
 * 12 total citations found (search results reviewed 6/x/2017; 0 additional studies found)
 
 ### Vector searching ('Related citations' search)
 (under construction)
-Seed articles: PMIDs [26314489,28552271,28140013,9851958,2897005](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=26314489%2028552271%2028140013%209851958%202897005)
-* [595 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=26314489,28552271,28140013,9851958,2897005)
-* 99 citations when above limited to years 2014 - 2017 (time period after Cochrane review)
+Seed articles: PMIDs [26218000,25724571,20439869,17891503](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=26218000,25724571,20439869,17891503)
+* [532 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=26218000,25724571,20439869,17891503)
+* 156 citations when above limited to AND burnout AND quality (time period after Cochrane review)
+* 156 citations when above limited to AND burnout AND quality and 201x - 2xxx (time period after Cochrane review)
   * [X additional articles found](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651)
 
 ## ClinicalTrials.gov
