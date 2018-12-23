@@ -52,7 +52,7 @@ Pending
 4. Dunn PM, Arnetz BB, Christensen JF, Homer L. Meeting the imperative to improve physician well-being: assessment of an innovative program. J Gen Intern Med. 2007 Nov;22(11):1544-52. PMID: [17891503](http://pubmed.gov/17891503); PMCID: [PMC2219814](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2219814).
 
 #### Studie(s) undergoing review
-1. Meredith LS, Batorsky B, Cefalu M, Darling JE, Stockdale SE, Yano EM, Rubenstein LV. Long-term impact of evidence-based quality improvement for facilitating medical home implementation on primary care health professional morale. BMC Fam Pract. 2018 Aug 31;19(1):149. doi: [10.1186/s12875-018-0824-4](http://dx.doi.org/10.1186/s12875-018-0824-4). PMID: [3017054](http://pubmed.gov/3017054)
+1. Meredith LS, Batorsky B, Cefalu M, Darling JE, Stockdale SE, Yano EM, Rubenstein LV. Long-term impact of evidence-based quality improvement for facilitating medical home implementation on primary care health professional morale. BMC Fam Pract. 2018 Aug 31;19(1):149. doi: [10.1186/s12875-018-0824-4](http://dx.doi.org/10.1186/s12875-018-0824-4). PMID: [30170541](http://pubmed.gov/30170541)
 2. Hung DY, Harrison MI, Truong Q, Du X. Experiences of primary care physicians and staff following lean workflow redesign. BMC Health Serv Res. 2018 Apr 10;18(1):274. doi: 10.1186/s12913-018-3062-5. PMID: [29636052](http://pubmed.gov/29636052); PMCID: [PMC5894127](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894127).
 
 #### Studie(s) excluded - selected list of important trial(s)
