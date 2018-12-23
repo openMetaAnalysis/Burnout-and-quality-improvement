@@ -57,6 +57,8 @@ Pending
 
 #### Studie(s) excluded - selected list of important trial(s)
 1. Salyers MP, Garabrant JM, Luther L, Henry N, Fukui S, Shimp D, Wu W, Gearhart T, Morse G, York MM, Rollins AL. A Comparative Effectiveness Trial to Reduce Burnout and Improve Quality of Care. Adm Policy Ment Health. 2018 Nov 28. doi: 10.1007/s10488-018-0908-4.  PMID: [30488144](http://pubmed.gov/30488144). *Did not study participatin in quality improvement*
+2. Arnetz B, Blomkvist V. Leadership, mental health, and organizational efficacy in health care organizations. Psychosocial predictors of healthy organizational development based on prospective data from four different organizations. Psychother Psychosom. 2007;76(4):242-8. PMID:  [17570963](http://pubmed.gov/17570963). *Measured workforce mental health rather than burnout*
+
 
 #### Cited by
 This repository is cited by:
