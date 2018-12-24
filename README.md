@@ -54,6 +54,17 @@ Pending
 #### Studie(s) undergoing review
 1. Meredith LS, Batorsky B, Cefalu M, Darling JE, Stockdale SE, Yano EM, Rubenstein LV. Long-term impact of evidence-based quality improvement for facilitating medical home implementation on primary care health professional morale. BMC Fam Pract. 2018 Aug 31;19(1):149. doi: [10.1186/s12875-018-0824-4](http://dx.doi.org/10.1186/s12875-018-0824-4). PMID: [30170541](http://pubmed.gov/30170541)
 2. Hung DY, Harrison MI, Truong Q, Du X. Experiences of primary care physicians and staff following lean workflow redesign. BMC Health Serv Res. 2018 Apr 10;18(1):274. doi: 10.1186/s12913-018-3062-5. PMID: [29636052](http://pubmed.gov/29636052); PMCID: [PMC5894127](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894127).
+3. Nelson KM, Helfrich C, Sun H, Hebert PL, Liu CF, Dolan E, Taylor L, Wong E,
+Maynard C, Hernandez SE, Sanders W, Randall I, Curtis I, Schectman G, Stark R,
+Fihn SD. Implementation of the patient-centered medical home in the Veterans
+Health Administration: associations with patient satisfaction, quality of care,
+staff burnout, and hospital and emergency department use. JAMA Intern Med. 2014
+Aug;174(8):1350-8. doi: 10.1001/jamainternmed.2014.2488. PMID: [25055197](http://pubmed.gov/25055197). *Did they measure change? Drop Locatelli*
+4. Lewis SE, Nocon RS, Tang H, Park SY, Vable AM, Casalino LP, Huang ES, Quinn
+MT, Burnet DL, Summerfelt WT, Birnberg JM, Chin MH. Patient-centered medical home
+characteristics and staff morale in safety net clinics. Arch Intern Med. 2012 Jan
+9;172(1):23-31. doi: 10.1001/archinternmed.2011.580. PubMed PMID: [22232143](http://pubmed.gov/22232143);*Did they measure change? Drop Locatelli*
+
 
 #### Studie(s) excluded - selected list of important trial(s)
 1. Salyers MP, Garabrant JM, Luther L, Henry N, Fukui S, Shimp D, Wu W, Gearhart T, Morse G, York MM, Rollins AL. A Comparative Effectiveness Trial to Reduce Burnout and Improve Quality of Care. Adm Policy Ment Health. 2018 Nov 28. doi: 10.1007/s10488-018-0908-4.  PMID: [30488144](http://pubmed.gov/30488144). *Did not study participatin in quality improvement*
