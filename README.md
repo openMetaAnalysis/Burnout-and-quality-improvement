@@ -4,9 +4,8 @@ A living systematic review
 
 Short url: https://openMetaAnalysis.github.io/Burnout-and-quality-improvement
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I2 was '[moderate](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates the previously published meta-analysis.(1)
-
-Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention.
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Heterogeneity of results as measured by I2 was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 75%. Heterogeneity is partly explained by the degree of control over project implementation by the frontlike workforce. This review updates previously published meta-analyses listed below.
+<!-- Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention. -->
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 * [Keep current with this topic](files/searching/Keep-up.md) (under construction)
 
