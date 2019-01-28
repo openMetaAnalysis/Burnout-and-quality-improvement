@@ -4,7 +4,7 @@ A living systematic review
 
 Short url: https://openMetaAnalysis.github.io/Burnout-and-quality-improvement
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Heterogeneity of results as measured by I2 was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 75%. Heterogeneity is partly explained by the degree of control over project implementation by the frontlike workforce. This review updates previously published meta-analyses listed below.
+**Clinical summary:** This meta-analysis suggests that clinical intervention *may be* effective. Heterogeneity of results as measured by I2 was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 75%. Heterogeneity is partly explained by the degree of control over project implementation by the frontline workforce. This review updates previously published meta-analyses listed below.
 <!-- Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention. -->
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 * [Keep current with this topic](files/searching/Keep-up.md) (under construction)
@@ -41,9 +41,10 @@ References:
 4. West CP, Dyrbye LN, Erwin PJ, Shanafelt TD. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. Lancet. 2016 Nov 5;388(10057):2272-2281. doi: [10.1016/S0140-6736(16)31279-X](http://dx.doi.org/10.1016/S0140-6736(16)31279-X). PMID: [27692469](http://pubmed.gov/27692469).
 5. Jackson GL, Powers BJ, Chatterjee R, Bettger JP, Kemper AR, Hasselblad V, Dolor RJ, Irvine RJ, Heidenfelder BL, Kendrick AS, Gray R, Williams JW. The patient centered medical home. A systematic review. Ann Intern Med. 2013 Feb 5;158(3):169-78. PMID: [24779044](http://pubmed.gov/24779044).
 
-### Randomized controlled trials
+### Studie(s)
 #### New studie(s) *not* included in the most recent review above
-Pending
+1. Meredith LS, Batorsky B, Cefalu M, Darling JE, Stockdale SE, Yano EM, Rubenstein LV. Long-term impact of evidence-based quality improvement for facilitating medical home implementation on primary care health professional morale. BMC Fam Pract. 2018 Aug 31;19(1):149. doi: [10.1186/s12875-018-0824-4](http://dx.doi.org/10.1186/s12875-018-0824-4). PMID: [30170541](http://pubmed.gov/30170541); PMCID: [PMC6119243](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6119243).
+2. Peikes DN, Swankoski K, Hoag SD, Duda N, Coopersmith J, Taylor EF, Morrisson N, Palakal M, Holland J, Day TJ, Sessums LL. The Effects of a Primary Care Transformation Initiative on Primary Care Physician Burnout and Workplace Experience. J Gen Intern Med. 2019 Jan;34(1):49-57. doi: [10.1007/s11606-018-4545-0](http://dx.doi.org/10.1007/s11606-018-4545-0). Epub 2018 Jul 17. PMID: [30019124](http://pubmed.gov/30019124); PMCID: [PMC6318185](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6318185).
 
 #### Studie(s) included in the review(s) above
 1. Linzer M, Poplau S, Grossman E, Varkey A, Yale S, Williams E, Hicks L, Brown RL, Wallock J, Kohnhorst D, Barbouche M. A Cluster Randomized Trial of Interventions to Improve Work Conditions and Clinician Burnout in Primary Care: Results from the Healthy Work Place (HWP) Study. J Gen Intern Med. 2015 Aug;30(8):1105-11. doi: [10.1007/s11606-015-3235-4](http://dx.doi.org/10.1007/s11606-015-3235-4). PMID: [25724571](http://pubmed.gov/25724571); PMCID: [PMC4510236](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4510236).
