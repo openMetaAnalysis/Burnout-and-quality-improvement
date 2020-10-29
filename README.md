@@ -57,10 +57,12 @@ References:
 NA
 
 #### Studie(s) undergoing review
-None
+1. Lewis SE, Nocon RS, Tang H, Park SY, Vable AM, Casalino LP, Huang ES, Quinn MT, Burnet DL, Summerfelt WT, Birnberg JM, Chin MH. Patient-centered medical home characteristics and staff morale in safety net clinics. Arch Intern Med. 2012 Jan 9;172(1):23-31. doi: 10.1001/archinternmed.2011.580. PubMed PMID: [22232143](http://pubmed.gov/22232143)
+2. Nocon RS, Fairchild PC, Gao Y, Gunter KE, Lee SM, Quinn M, Huang ES, Chin MH. Provider and Staff Morale, Job Satisfaction, and Burnout over a 4-Year Medical Home Intervention. J Gen Intern Med. 2019 Jun;34(6):952-959. doi: 10.1007/s11606-019-04893-z. Epub 2019 Mar 18. PubMed PMID: [30887431](http://pubmed.gov/30887431)
+
 
 #### Studie(s) excluded - selected list of important trial(s)
-1. Arnetz B, Blomkvist V. Leadership, mental health, and organizational efficacy in health care organizations. Psychosocial predictors of healthy organizational development based on prospective data from four different organizations. Psychother Psychosom. 2007;76(4):242-8. PMID:  [17570963](http://pubmed.gov/17570963). *Measured workforce mental health rather than burnout*
+1. Arnetz B, Blomkvist V. Leadership, mental health, and organizational efficacy in health care organizations. Psychosocial predictors of healthy organizational development based on prospective data from four different organizations. Psychother Psychosom. 2007;76(4):242-8. PMID: [17570963](http://pubmed.gov/17570963). *Measured workforce mental health rather than burnout*
 2. Boult C, Reider L, Frey K, Leff B, Boyd CM, Wolff JL, Wegener S, Marsteller J, Karm L, Scharfstein D. Early effects of "Guided Care" on the quality of health care for multimorbid older persons: a cluster-randomized controlled trial. J Gerontol A Biol Sci Med Sci. 2008 Mar;63(3):321-7. PMID: [18375882](http://pubmed.gov/18375882). *Studied provider satisfaction, but not burnout*
 3. Lewis SE, Nocon RS, Tang H, Park SY, Vable AM, Casalino LP, Huang ES, Quinn MT, Burnet DL, Summerfelt WT, Birnberg JM, Chin MH. Patient-centered medical home characteristics and staff morale in safety net clinics. Arch Intern Med. 2012 Jan 9;172(1):23-31. doi: 10.1001/archinternmed.2011.580. PubMed PMID: [22232143](http://pubmed.gov/22232143);*Correlated extent of PCMH implementation with burnout. No true control group thus could not exclude the Matthew effect*
 4. Locatelli SM, LaVela SL. Professional Quality of Life of Veterans Affairs Staff and Providers in a Patient-Centered Care Environment. Health Care Manag (Frederick). 2015 Jul-Sep;34(3):246-54. doi: [10.1097/HCM.0000000000000070](http://dx.doi.org/10.1097/HCM.0000000000000070). PMID: [26218000](http://pubmed.gov/26218000).*Correlated extent of PCMH implementation with burnout. No true control group thus could not exclude the Matthew effect*
