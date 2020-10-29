@@ -1,0 +1,12 @@
+Study,Year,PMID,size,effect.size,ci.l,ci.u,sd,measure,Outcome,Type,Local control or benefit,Workflow,Comments,Intervention.details
+Legacy Clinic (Dunn),2007,17891503,27,-0.6092,-1.3974,0.1794,,SMD,Maslach EE,Practice redesign,Yes,Yes,Effect size estmated from p-value and sample size,
+Group Health (Reid),2010,20439869,48,-0.7757,-1.3624,-0.189,,SMD,Maslach EE,Practice redesign,Yes,Yes,,
+Healthy Workplace Trial (Linzer),2015,25724571,139,0.9474151,0.6007483,1.494129,,OR,Mini Z,QI,Yes,Yes,,
+VA PACT (Helfrich),2015,24715396,4539,1.46,1.11,1.93,,OR,ProQOL-BO,Practice redesign,Uncertain,Yes,,
+VA PACT+EBQI Early (Meredith),2018,30170541,90,-1.42,-8.74,5.909,35.43,MD,Maslach EE,Practice redesign,Yes,Yes,Sample sizes estimated,
+VA PACT+EBQI Late (Meredith),2018,30170541,90,-6.82,-13.29,-0.35,31.32,MD,Maslach EE,Practice redesign,Yes,Yes,Sample sizes estimated,
+Sutter Health Pilot (Hung),2018,29636052,232,-0.016,-0.50208,0.47008,,BETA,Maslach EE,Practice redesign,Yes,Yes,,
+Sutter Health Betas (Hung),2018,29636052,558,0.476,0.15456,0.7974,,BETA,Maslach EE,Practice redesign,Uncertain,Yes,,
+CPC (Peikes),2019,30019124,1119,-0.0288,-0.146,0.0884,,SMD,Mini Z,Practice redesign,Uncertain,Yes,,
+Nocon,2019,30887431,536,,,,,,,,,,,
+Lewis,2012,22232143,,,,,,,,,,,,
