@@ -4,8 +4,8 @@ A living systematic review
 
 Short url: https://openMetaAnalysis.github.io/Burnout-and-quality-improvement
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *may be* effective. Heterogeneity of results as measured by I2 was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 75%. Heterogeneity is partly explained by the degree of control over project implementation by the frontline workforce. This review updates previously published meta-analyses listed below.
-<!-- Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention. -->
+**Clinical summary:** This meta-analysis suggests that QI projects that either empower the workforce to design the projet, or projects that are designed to benefit the workforce *may be*  effective in reducing burnout. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 75%. Heterogeneity is partly explained by the degree of control over project implementation by the frontline workforce. This review updates previously published meta-analyses listed below.
+
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 * [Keep current with this topic](files/searching/Keep-up.md) (under construction)
 
@@ -20,15 +20,12 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior s
 * [Description of studies (PICO table)](files/study-details/table-pico.pdf)
 * [Risk of bias assessment](files/study-details/table-bias.pdf) (under construction)
 * [Forest plots](../master/files/forest-plots) ([source data](files/data))
-<!--* [Network plots](../master/files/network) (optional)-->
+
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
-<!--
-The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
-![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
--->
+
 
 References:
 ----------------------------------
@@ -62,7 +59,7 @@ NA
 
 
 #### Studie(s) excluded - selected list of important trial(s)
-1. Arnetz B, Blomkvist V. Leadership, mental health, and organizational efficacy in health care organizations. Psychosocial predictors of healthy organizational development based on prospective data from four different organizations. Psychother Psychosom. 2007;76(4):242-8. PMID: [17570963](http://pubmed.gov/17570963). *Measured workforce mental health rather than burnout*
+1. Arnetz B, Blomkvist V. Leadership, mental health, and organizational efficacy in health care organizations. Psychosocial predictors of healthy organizational development based on prospective data from four different organizations. Psychother Psychosom. 2007;76(4):242-8. PMID: [17570963](http://pubmed.gov/17570963). * workforce mental health rather than burnout*
 2. Boult C, Reider L, Frey K, Leff B, Boyd CM, Wolff JL, Wegener S, Marsteller J, Karm L, Scharfstein D. Early effects of "Guided Care" on the quality of health care for multimorbid older persons: a cluster-randomized controlled trial. J Gerontol A Biol Sci Med Sci. 2008 Mar;63(3):321-7. PMID: [18375882](http://pubmed.gov/18375882). *Studied provider satisfaction, but not burnout*
 3. Lewis SE, Nocon RS, Tang H, Park SY, Vable AM, Casalino LP, Huang ES, Quinn MT, Burnet DL, Summerfelt WT, Birnberg JM, Chin MH. Patient-centered medical home characteristics and staff morale in safety net clinics. Arch Intern Med. 2012 Jan 9;172(1):23-31. doi: 10.1001/archinternmed.2011.580. PubMed PMID: [22232143](http://pubmed.gov/22232143);*Correlated extent of PCMH implementation with burnout. No true control group thus could not exclude the Matthew effect*
 4. Locatelli SM, LaVela SL. Professional Quality of Life of Veterans Affairs Staff and Providers in a Patient-Centered Care Environment. Health Care Manag (Frederick). 2015 Jul-Sep;34(3):246-54. doi: [10.1097/HCM.0000000000000070](http://dx.doi.org/10.1097/HCM.0000000000000070). PMID: [26218000](http://pubmed.gov/26218000).*Correlated extent of PCMH implementation with burnout. No true control group thus could not exclude the Matthew effect*
