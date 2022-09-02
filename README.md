@@ -4,6 +4,16 @@ A living systematic review
 
 Short url: https://openMetaAnalysis.github.io/Burnout-and-quality-improvement
 
+>“Quality indices, which are supposed to improve care, ‘are the bane of my existence ,’ she says.
+‘Many times those numbers reflect not what my patients or I perceive as quality of care, but
+simply what managers are able to extract from the health record system.’ “
+[Gunderman R. NEJM Catalyst. Jan 10, 2017](https://catalyst.nejm.org/doi/abs/10.1056/CAT.17.0553)
+
+>“the E.M.R. has become the convenient vehicle to channel every quandary in health care. New
+state regulation? Add a required field in the E.M.R. New insurance requirement? Add two fields.
+New quality control initiative? Add six"
+[Ofri, D. NY Times. Nov 14, 2017](https://www.nytimes.com/2017/11/14/well/live/the-patients-vs-paperwork-problem-for-doctors.html)
+
 **Clinical summary:** This meta-analysis suggests that QI projects that either empower the workforce to design the projet, or projects that are designed to benefit the workforce *may be*  effective in reducing burnout. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 75%. Heterogeneity is partly explained by the degree of control over project implementation by the frontline workforce. This review updates previously published meta-analyses listed below.
 
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
@@ -71,7 +81,7 @@ NA
 #### Cited by
 This repository is cited by:
 
-1. WikiDoc contributors. Pending content page. WikiDoc. Nov 9, 2014. Available at: http://www.wikidoc.org/index.php/This_topic. Accessed November 9, 2014. 
+1. Badgett RG, Duran BA. Does Participation in QI Affect Clinician Burnout?. 2019 Annual Meeting of the Society of General Internal Medicine; 2019 May 9; Washington, DC, United States. Society of General Internal Medicine. PMID [31090026](http://pubmed.gov/31090026)
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [License](files/LICENSE.md) - [History](../../commits/master/README.md)  - 
