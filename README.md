@@ -1,4 +1,4 @@
-Burnout: effect of particpation in quality-improvement projects
+Burnout: effect of participation in quality-improvement projects
 ============================================
 A living systematic review
 
